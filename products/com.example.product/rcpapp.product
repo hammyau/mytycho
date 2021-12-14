@@ -19,7 +19,7 @@
 
    <splash
       location="com.example.product" />
-   <launcher>
+   <launcher name="mytycho">
       <win useIco="false">
          <bmp/>
       </win>
